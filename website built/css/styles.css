@@ -1,0 +1,120 @@
+h1
+{
+   color: #0d1616;
+}
+img:hover{
+   color: gold;
+}
+.circular
+{
+    border-radius: 50%;
+}
+.first
+{
+    margin-left: 200px;
+}
+.second
+{
+    margin-left: 250px;
+}
+.third
+{
+    margin-left: 300px;
+
+}
+ table.style2{
+    table-layout: fixed;
+    width:50%;
+    border-collapse: collapse;
+    border: 3px solid palegoldenrod;
+  }
+table.style2 td,th
+{
+        font-family: 'Rock Salt', cursive;
+}
+table.style2 th {
+    letter-spacing: 1px;
+  }
+ table.style2 tr:nth-child(odd) {
+    background-color: #ffefa0;
+  }
+  table.style2 tr:nth-child(even) {
+    background-color: #ccf6c8;
+  }
+ .class1
+ {
+     position: relative;
+     margin-left:40%;
+     width:5%;
+     margin-top: 20px;
+ }
+ .cloud
+ {
+     position: absolute;
+     left:500px;
+     right:100px;
+     top:80px;
+ }
+ .cloud2
+ {
+     position: absolute;
+     right:250px;
+     top:10px;
+ }
+.insert
+{
+    width: 80%;
+    margin:auto;
+    line-height: 2;
+    text-align: left;
+}
+.codeimg
+{
+    margin-right:2%;
+    float: left;
+}
+
+ #id{
+    font-family: "Montserrat", sans-serif;
+}
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #2980b9);
+    background-image: -moz-linear-gradient(top, #11cdd4, #2980b9);
+    background-image: -ms-linear-gradient(top, #11cdd4, #2980b9);
+    background-image: -o-linear-gradient(top, #11cdd4, #2980b9);
+    background-image: linear-gradient(to bottom, #11cdd4, #2980b9);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    text-shadow: 0px 0px 3px #11cdd4;
+    font-family: Georgia;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    border: solid #11cdd4 2px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
+  .vasavilogo
+  {
+      float: left;
+      margin-top:0px;
+  }
+  .happy
+  {
+      margin-top: 2px;
+  }
+  .tech
+  {
+      width: 50%;
+  }
